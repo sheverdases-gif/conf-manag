@@ -1,4 +1,4 @@
-#Тестируем навигацию по JSON VFS
+#Тестируем навигацию по JSON vfs
 ls
 cd home
 lscd user
